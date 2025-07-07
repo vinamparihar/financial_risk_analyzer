@@ -1,0 +1,11 @@
+langchain
+langgraph
+langchain_groq
+langchain_community
+tavily-python
+yfinance
+python-dotenv
+langchain-openai
+langchain_tavily
+json
+
